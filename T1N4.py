@@ -11,4 +11,4 @@ def palyndrome_check():
     elif emp_list_v1 != emp_list_v2:
         return False
 palyndrome = palyndrome_check()
-print(palyndrome)
+print(palyndrome)# T1N4
