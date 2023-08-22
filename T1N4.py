@@ -12,3 +12,4 @@ def palyndrome_check():
         return False
 palyndrome = palyndrome_check()
 print(palyndrome)# T1N4
+# T1N4
